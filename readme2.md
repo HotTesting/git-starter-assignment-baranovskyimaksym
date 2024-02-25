@@ -2,6 +2,10 @@
 
 
 ## This is markdown file in my repo. 
+
+> [!NOTE]
+> This is my first repo and 1st readme.
+
 :wave:
 # I have learned about The Basics of GitHub.
 **There are some points**:
