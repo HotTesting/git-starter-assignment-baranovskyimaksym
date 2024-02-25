@@ -19,7 +19,8 @@
 
 
 
-And there are some `#RRGGBB` resources:
+And there are some resources:
+```
 1. A short video explaining what GitHub is
 2. Git and GitHub learning resources
 3. Understanding the GitHub flow
@@ -28,8 +29,13 @@ And there are some `#RRGGBB` resources:
 6. GitHub's Learning Lab
 7. Education community forum
 8. GitHub community forum
+``` 
 
-Test task list :crossed_fingers: :
- - [x] test1
- - [x] test2
- - [x] test3
+> [!IMPORTANT]
+> Task list :crossed_fingers: :
+ - [x] Open a pull request and let your teacher know that you’ve finished this course.
+ - [x] Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+ - [x] Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, "Managing Your Profile README".
+ - [x] Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them.
+ - [x] Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey?
+
