@@ -27,6 +27,6 @@ And there are some resources:
 8. GitHub community forum
 
 Test task list :crossed_fingers: :
- [x]test1
- [x]test2
- [x]test3
+ - [x] test1
+ - [x] test2
+ - [x] test3
