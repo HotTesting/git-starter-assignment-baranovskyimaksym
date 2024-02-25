@@ -19,7 +19,7 @@
 
 
 
-And there are some resources:
+And there are some `#RRGGBB` resources:
 1. A short video explaining what GitHub is
 2. Git and GitHub learning resources
 3. Understanding the GitHub flow
