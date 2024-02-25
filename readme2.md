@@ -32,7 +32,10 @@ And there are some resources:
 ``` 
 
 > [!IMPORTANT]
-> Task list :crossed_fingers: :
+> Below there is the list of 1st task.
+
+
+***Task list :crossed_fingers: :***
  - [x] Open a pull request and let your teacher know that you’ve finished this course.
  - [x] Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
  - [x] Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, "Managing Your Profile README".
