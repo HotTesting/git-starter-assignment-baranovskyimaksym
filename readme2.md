@@ -15,8 +15,7 @@
 
 ***To check it - go to my [repo](https://github.com/HotTesting/git-starter-assignment-baranovskyimaksym)***
 
-![Github image]
-(https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
 
 
 
