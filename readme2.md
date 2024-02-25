@@ -20,8 +20,8 @@
 
 
 And there are some resources:
-1. A short video explaining what GitHub is `#RRGGBB`
-2. Git and GitHub learning resources `#000000`
+1. A short video explaining what GitHub is
+2. Git and GitHub learning resources
 3. Understanding the GitHub flow
 4. How to use GitHub branches
 5. Interactive Git training materials
