@@ -8,6 +8,7 @@
 - _GitHub flow : Repositories , Cloning , Committing and pushing_ 
 * `Branches , Forks , Pull requests , Issues , user profile Readme`
 +  Markdown
+
 ***To check it - go to my [repo](https://github.com/HotTesting/git-starter-assignment-baranovskyimaksym)***
 
 ![Github image]
@@ -26,6 +27,6 @@ And there are some resources:
 8. GitHub community forum
 
 Test task list :crossed_fingers: :
-[x] test1
-[x] test2
-[x] test3
+ [x]test1
+ [x]test2
+ [x]test3
